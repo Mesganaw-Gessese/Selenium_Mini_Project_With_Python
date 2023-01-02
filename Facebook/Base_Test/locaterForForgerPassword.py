@@ -1,0 +1,8 @@
+facebook = "https://www.facebook.com/"
+# forgot_password = "//a[contains(text(),'Forgot password?')]"
+search_btn = "did_submit"
+fild = "identify_email"
+forgot_password_location = "//body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[3]/a[1]"
+reset_password = "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/div[1]/div[2]/h2[1]"
+# result = "//div[contains(text(),'No Search Results')]"
+forgot_password_error_message = "//body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/div[1]/div[1]"
